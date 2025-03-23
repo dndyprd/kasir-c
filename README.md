@@ -2,7 +2,7 @@
 
 Selamat datang di Project Kasir C! 🚀
 
-Proyek ini adalah pengembangan sistem kasir sederhana yang diimplementasikan dalam bahasa pemrograman C. Dengan menggunakan konsep pemrograman struktural, kami berhasil membuat aplikasi yang efisien dan mudah digunakan untuk membantu proses transaksi penjualan.
+Proyek ini adalah  sistem kasir sederhana yang diimplementasikan dalam bahasa pemrograman C. Dengan menggunakan konsep pemrograman struktural, program ini merupakan konsep dasar dari kasir. Program ini memudahkan untuk proses transaksi penjualan.
 
 ## Fitur Utama ✨
 Pengelolaan Data Barang:
@@ -17,7 +17,7 @@ Menghitung diskon berdasarkan jumlah beli, diskon 10% untuk pembelian lebih dari
 Struk Pembayaran:
 Mencetak struk pembayaran yang rapi ke dalam file, menampilkan rincian transaksi, total harga, diskon, dan kembalian.
 
-## Cara Menggunakan 💼
+## Cara Menggunakan Program 💼
 1. Jalankan program dan pilih barang yang ingin Anda beli dari daftar.
 2. Masukkan jumlah barang yang dibeli.
 3. Setelah selesai memilih barang, pilih untuk mencetak struk pembayaran.
