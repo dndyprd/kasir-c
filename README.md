@@ -1,21 +1,16 @@
-# Project Kasir C 💸 
+# Project Kasir C 🚀💸
+Sistem kasir sederhana yang diimplementasikan dalam bahasa pemrograman C. Dengan menggunakan konsep pemrograman struktural, program ini merupakan konsep dasar dari kasir. Program ini memudahkan untuk proses transaksi penjualan.
 
-Selamat datang di Project Kasir C! 🚀
+## Clone Repository 🔗
+```sh
+git clone https://github.com/dndyprd/kasir-c.git
+```
 
-Proyek ini adalah  sistem kasir sederhana yang diimplementasikan dalam bahasa pemrograman C. Dengan menggunakan konsep pemrograman struktural, program ini merupakan konsep dasar dari kasir. Program ini memudahkan untuk proses transaksi penjualan.
-
-## Fitur Utama ✨
-Pengelolaan Data Barang:
-Menggunakan struct untuk menyimpan informasi barang, termasuk nomor, nama, dan harga.
-
-Transaksi Pembelian: 
-Memungkinkan pengguna memasukkan jumlah barang yang dibeli, dengan pengecekan apakah barang tersebut tersedia.
-
-Diskon Otomatis:
-Menghitung diskon berdasarkan jumlah beli, diskon 10% untuk pembelian lebih dari 3 item dan 15% untuk lebih dari 5 item.
-
-Struk Pembayaran:
-Mencetak struk pembayaran yang rapi ke dalam file, menampilkan rincian transaksi, total harga, diskon, dan kembalian.
+## Fitur Program ✨
+* Pengelolaan Data Barang
+* Transaksi Pembelian
+* Diskon Otomatis
+* Struk Pembayaran (.txt)
 
 ## Cara Menggunakan Program 💼
 1. Jalankan program dan pilih barang yang ingin Anda beli dari daftar.
